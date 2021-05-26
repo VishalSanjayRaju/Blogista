@@ -1,19 +1,19 @@
 .one {
- text-align: "center"; 
+ text-align: center; 
 }
 
 .two {
-  text-align: "center"; 
+  text-align: center; 
   font-family: 'Odibee Sans', cursive;
 }
 
 .three {
- text-align: "center";
- text-style: "none";
+ text-align: center;
+ text-style: none;
 }
 
 .four {
- text-align: "center";
- border: "1px solid black";
+ text-align: center;
+ border: 1px solid "black";
  
 }
