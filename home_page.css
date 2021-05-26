@@ -10,10 +10,10 @@
  text-style: none;
 }
 
-.five {
+.four {
  text-align: center;
  border: 1px solid ;
- 
+  background-color: #D96A6F;
 }
 
 .one_on_one{
@@ -21,4 +21,9 @@
  background-color: #D6FF83;
  text-align: left;
  font-family: 'Montserrat', sans-serif;
+}
+
+.five {
+ text-align: center;
+ border: 1px solid ;
 }
