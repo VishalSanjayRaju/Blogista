@@ -1,2 +1,3 @@
-# Blogista
-people can create blogs
+# ksit notes 
+
+
